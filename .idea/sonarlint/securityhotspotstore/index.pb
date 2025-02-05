@@ -13,3 +13,5 @@ G
 tests/nft-trait.test.ts,e/9/e92028bb383c692a15c6f69494e17b1a8dcc289e
 F
 contracts/royalty.clar,2/4/24314840ee395cccf5e4e28738e63fda539dec70
+E
+tests/royalty.test.ts,1/e/1ea1912e5031b250d5cff505fdfb4d16441d00aa
