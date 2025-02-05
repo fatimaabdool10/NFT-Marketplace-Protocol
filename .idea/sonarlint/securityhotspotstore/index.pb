@@ -7,3 +7,7 @@ D
 tests/escrow.test.ts,e/f/efe78c29909fc650ccabdd077a14b50b406688ce
 T
 $deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
+H
+contracts/nft-trait.clar,a/4/a47ab5c10fc0261b804c3ede7c8d74c0a5f9deba
+G
+tests/nft-trait.test.ts,e/9/e92028bb383c692a15c6f69494e17b1a8dcc289e
